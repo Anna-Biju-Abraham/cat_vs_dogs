@@ -1,0 +1,1 @@
+This project focuses on building a CNN model to differentiate between images of cats and dogs. Convolutional Neural Networks are a class of deep neural networks, most commonly applied to analyzing visual imagery. Here, we leverage a CNN to achieve high accuracy in image classification tasks.
